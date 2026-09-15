@@ -5,8 +5,795 @@ window.DIESMOS_MUSIC_CATALOG = {
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T03:17:25.272604+00:00",
+  "generatedAt": "2026-09-15T04:37:09.314693+00:00",
   "artists": [
+    {
+      "name": "sraM onurB",
+      "albums": [
+        {
+          "name": "snagilooH & spoW-ooD",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "edanerG",
+              "track": 1,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "dc4a79a57d5251c7.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/dc4a79a57d5251c7.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/dc4a79a57d5251c7.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "erA uoY yaW eht tsuJ",
+              "track": 2,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "39c7324a0636066b.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/39c7324a0636066b.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/39c7324a0636066b.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "emiT tsriF ruO",
+              "track": 3,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "9b2a2fe42c88fb02.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/9b2a2fe42c88fb02.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/9b2a2fe42c88fb02.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ybaB yawanuR",
+              "track": 4,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "1832e84c3b746d59.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/1832e84c3b746d59.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/1832e84c3b746d59.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "gnoS yzaL ehT",
+              "track": 5,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "26bc744f170dc139.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/26bc744f170dc139.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/26bc744f170dc139.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY yrraM",
+              "track": 6,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "87610503a28dc2f3.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/87610503a28dc2f3.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/87610503a28dc2f3.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "nooM eht ot gniklaT",
+              "track": 7,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "0b0a565ce6c6c631.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/0b0a565ce6c6c631.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/0b0a565ce6c6c631.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")yelraM naimaD .taef( seulB erotS rouqiL",
+              "track": 8,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "6723671e01ee5c47.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/6723671e01ee5c47.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/6723671e01ee5c47.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM no tnuoC",
+              "track": 9,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "18f7457dce94efc6.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/18f7457dce94efc6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/18f7457dce94efc6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")B.o.B dna neerG oLeeC .taef( ediS rehtO ehT",
+              "track": 10,
+              "artist": "sraM onurB",
+              "album": "snagilooH & spoW-ooD",
+              "filename": "1b07c93160f55fef.m4a",
+              "path": "477fb9eccacb71c3/f416a7a61f0fb974/1b07c93160f55fef.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/477fb9eccacb71c3/f416a7a61f0fb974/1b07c93160f55fef.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "reffinstnuC",
+      "albums": [
+        {
+          "name": "eB oT tnaeM",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "eB oT tnaeM",
+              "track": 1,
+              "artist": "reffinstnuC",
+              "album": "eB oT tnaeM",
+              "filename": "a18e70ff815f4ec9.mp3",
+              "path": "43dfebd9ac8ffbd7/8f236a7b6b8807a9/a18e70ff815f4ec9.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/43dfebd9ac8ffbd7/8f236a7b6b8807a9/a18e70ff815f4ec9.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ekiF cinimoD",
+      "albums": [
+        {
+          "name": "someD ,eM tuobA tegroF t'noD",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "sthgiN 3",
+              "track": 1,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "89f5ed9489dcef23.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/89f5ed9489dcef23.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/89f5ed9489dcef23.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "yenoM yM stnaW ehS",
+              "track": 2,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "6773eda34727e7c1.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/6773eda34727e7c1.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/6773eda34727e7c1.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "llodybaB",
+              "track": 3,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "352db90bbe218515.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/352db90bbe218515.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/352db90bbe218515.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "evitcelloC tsaoctseW",
+              "track": 4,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "4238c01332ae44c4.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/4238c01332ae44c4.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/4238c01332ae44c4.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "skcoS",
+              "track": 5,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "09d645ad27a17df8.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/09d645ad27a17df8.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/09d645ad27a17df8.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "gnihtyrevE fo gniK",
+              "track": 6,
+              "artist": "ekiF cinimoD",
+              "album": "someD ,eM tuobA tegroF t'noD",
+              "filename": "7eb36219837925a3.m4a",
+              "path": "1c556112ce5061ff/503928b843beb8fe/7eb36219837925a3.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/1c556112ce5061ff/503928b843beb8fe/7eb36219837925a3.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "snogarD enigamI",
+      "albums": [
+        {
+          "name": "snoisiV thgiN",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "evitcaoidaR",
+              "track": 1,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "47934b136df7b52e.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/47934b136df7b52e.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/47934b136df7b52e.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eotpiT",
+              "track": 2,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "673f21c64dce07fd.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/673f21c64dce07fd.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/673f21c64dce07fd.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "emiT s'tI",
+              "track": 3,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "bcfbb6941b2d4408.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/bcfbb6941b2d4408.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/bcfbb6941b2d4408.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "snomeD",
+              "track": 4,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "d7452ad21d43ac81.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/d7452ad21d43ac81.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/d7452ad21d43ac81.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dlroW ehT fO poT nO",
+              "track": 5,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "4fe813e01f71779b.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/4fe813e01f71779b.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/4fe813e01f71779b.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "madretsmA",
+              "track": 6,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "badb9fc4f3a785c2.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/badb9fc4f3a785c2.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/badb9fc4f3a785c2.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM raeH",
+              "track": 7,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "7f767b05d8882dfb.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/7f767b05d8882dfb.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/7f767b05d8882dfb.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgiN yrevE",
+              "track": 8,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "73fded7a4198d847.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/73fded7a4198d847.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/73fded7a4198d847.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tuO gnideelB",
+              "track": 9,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "9024ae18f0e7a0ef.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/9024ae18f0e7a0ef.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/9024ae18f0e7a0ef.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "godrednU",
+              "track": 10,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "04b45e05f1190237.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/04b45e05f1190237.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/04b45e05f1190237.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "yaS oT tfeL gnihtoN",
+              "track": 11,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "183853cc6746a6bd.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/183853cc6746a6bd.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/183853cc6746a6bd.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ahC",
+              "track": 12,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "77ca384a7134ff97.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/77ca384a7134ff97.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/77ca384a7134ff97.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "naM gnikroW",
+              "track": 13,
+              "artist": "snogarD enigamI",
+              "album": "snoisiV thgiN",
+              "filename": "0fab022eecf95c97.m4a",
+              "path": "e047b37ca9b8b39d/7775957794cf2383/0fab022eecf95c97.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/0fab022eecf95c97.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5 nooraM",
+      "albums": [
+        {
+          "name": ")exuleD( desopxerevO",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "thgiN eroM enO",
+              "track": 1,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "2a4474f193701576.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/2a4474f193701576.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/2a4474f193701576.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "enohpyaP",
+              "track": 2,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "58f42521f5e403fe.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/58f42521f5e403fe.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/58f42521f5e403fe.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgilyaD",
+              "track": 3,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "c143a9944f29b39d.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/c143a9944f29b39d.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/c143a9944f29b39d.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ekirtS ykcuL",
+              "track": 4,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "5077a732146e57d5.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/5077a732146e57d5.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/5077a732146e57d5.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "deiL reveN ohW naM ehT",
+              "track": 5,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "4f35f8b74dd4ab0a.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/4f35f8b74dd4ab0a.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/4f35f8b74dd4ab0a.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ydobemoS evoL",
+              "track": 6,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "593e9b335ef71835.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/593e9b335ef71835.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/593e9b335ef71835.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "rellikydaL",
+              "track": 7,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "0e12602920337863.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/0e12602920337863.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/0e12602920337863.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "relleT enutroF",
+              "track": 8,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "76bec418931f5afc.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/76bec418931f5afc.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/76bec418931f5afc.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "daS",
+              "track": 9,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "8b1652219c666914.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/8b1652219c666914.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/8b1652219c666914.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")noisreV ticilpxE( stekciT",
+              "track": 10,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "0b1abb68fabec7da.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/0b1abb68fabec7da.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/0b1abb68fabec7da.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "triD ’nioD",
+              "track": 11,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "e3aad3657c0b9cf2.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/e3aad3657c0b9cf2.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/e3aad3657c0b9cf2.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eybdooG lufituaeB",
+              "track": 12,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "209d16521c6032d9.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/209d16521c6032d9.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/209d16521c6032d9.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "seyE ruoY epiW",
+              "track": 13,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "a9afbc14ccbad967.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/a9afbc14ccbad967.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/a9afbc14ccbad967.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")noisreV ticilpxE( sraeY detsaW",
+              "track": 14,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "1a36d00f646ee444.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/1a36d00f646ee444.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/1a36d00f646ee444.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "rehtegoT yatS s’teL",
+              "track": 15,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "c8cf483a03d5cb89.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/c8cf483a03d5cb89.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/c8cf483a03d5cb89.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "morF gnidroceR oidutS( reggaJ ekiL sevoM",
+              "track": 16,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "d37aa0d4a46875cc.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/d37aa0d4a46875cc.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/d37aa0d4a46875cc.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")ximeR stuC emerpuS( enohpyaP",
+              "track": 17,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "c8e008042d395068.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/c8e008042d395068.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/c8e008042d395068.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")ximeR eromtuC( enohpyaP",
+              "track": 18,
+              "artist": "5 nooraM",
+              "album": ")exuleD( desopxerevO",
+              "filename": "2b286d79693bbe6c.m4a",
+              "path": "e2d1754eee941ba0/6e5fce1d0f6e8a4b/2b286d79693bbe6c.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/6e5fce1d0f6e8a4b/2b286d79693bbe6c.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "enaJ tuobA sgnoS",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "ehtaerB oT redraH",
+              "track": 1,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "d6a525f73bd0c392.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/d6a525f73bd0c392.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/d6a525f73bd0c392.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "evoL sihT",
+              "track": 2,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "d520573917e44769.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/d520573917e44769.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/d520573917e44769.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "revihS",
+              "track": 3,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "387bc3371ad9b303.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/387bc3371ad9b303.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/387bc3371ad9b303.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "devoL eB lliW ehS",
+              "track": 4,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "5b82da29235c967f.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/5b82da29235c967f.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/5b82da29235c967f.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "delgnaT",
+              "track": 5,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "f5d18f2a2c8e7b35.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/f5d18f2a2c8e7b35.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/f5d18f2a2c8e7b35.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "nuS ehT",
+              "track": 6,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "d78914d37d70b7d5.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/d78914d37d70b7d5.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/d78914d37d70b7d5.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tuO teG tsuM",
+              "track": 7,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "d9999b6367ce79a6.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/d9999b6367ce79a6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/d9999b6367ce79a6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "gninroM yadnuS",
+              "track": 8,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "fea329ee11899f33.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/fea329ee11899f33.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/fea329ee11899f33.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "terceS",
+              "track": 9,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "72b09954840e4eae.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/72b09954840e4eae.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/72b09954840e4eae.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY htiW hguorhT",
+              "track": 10,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "814a505219087515.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/814a505219087515.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/814a505219087515.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "emoH gnimoC toN",
+              "track": 11,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "75d757791173d437.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/75d757791173d437.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/75d757791173d437.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eybdooG tseteewS",
+              "track": 12,
+              "artist": "5 nooraM",
+              "album": "enaJ tuobA sgnoS",
+              "filename": "70862d6b7e29c469.m4a",
+              "path": "e2d1754eee941ba0/fa8951459e159ca6/70862d6b7e29c469.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/fa8951459e159ca6/70862d6b7e29c469.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "V",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "spaM",
+              "track": 1,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "2c5e58181f23866e.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/2c5e58181f23866e.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/2c5e58181f23866e.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "slaminA",
+              "track": 2,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "023cd9ba1f7bf7c8.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/023cd9ba1f7bf7c8.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/023cd9ba1f7bf7c8.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY syawlA saW tI",
+              "track": 3,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "ab7269894b666375.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/ab7269894b666375.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/ab7269894b666375.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM ssiknU",
+              "track": 4,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "94715b05fdfa72ea.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/94715b05fdfa72ea.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/94715b05fdfa72ea.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "raguS",
+              "track": 5,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "80753a29da80ccdc.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/80753a29da80ccdc.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/80753a29da80ccdc.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ainrofilaC gnivaeL",
+              "track": 6,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "3b76576a9ad313ad.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/3b76576a9ad313ad.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/3b76576a9ad313ad.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tekcoP ruoY nI",
+              "track": 7,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "38e1c731b1d01556.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/38e1c731b1d01556.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/38e1c731b1d01556.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "evoL weN",
+              "track": 8,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "2c23f417df49dde1.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/2c23f417df49dde1.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/2c23f417df49dde1.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY roF kcaB gnimoC",
+              "track": 9,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "f5b656569f6ca864.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/f5b656569f6ca864.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/f5b656569f6ca864.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sgnileeF",
+              "track": 10,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "630c5e2a5d66f1c6.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/630c5e2a5d66f1c6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/630c5e2a5d66f1c6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "nepO sI traeH yM",
+              "track": 11,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "30792819b58cfb55.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/30792819b58cfb55.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/30792819b58cfb55.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "remmuS sihT",
+              "track": 12,
+              "artist": "5 nooraM",
+              "album": "V",
+              "filename": "9a87886d39135ba9.m4a",
+              "path": "e2d1754eee941ba0/5806702411b1cc8f/9a87886d39135ba9.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e2d1754eee941ba0/5806702411b1cc8f/9a87886d39135ba9.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "ocsiD ehT tA !cinaP",
       "albums": [
@@ -956,6 +1743,117 @@ window.DIESMOS_MUSIC_CATALOG = {
       ]
     },
     {
+      "name": "sneriS htiW gnipeelS",
+      "albums": [
+        {
+          "name": "raeH oT seyE dna eeS oT sraE htiW",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "nrubpeH yerduA er'uoY ,naeD semaJ m'I fI",
+              "track": 1,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "818cba8342a946e9.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/818cba8342a946e9.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/818cba8342a946e9.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "0.2V moC toD bmoB ehT",
+              "track": 2,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "2ed843ada8aeb459.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/2ed843ada8aeb459.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/2ed843ada8aeb459.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")yaW dooG a nI( eM lliK uoY",
+              "track": 3,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "f0f19bb1e8b0dcd2.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/f0f19bb1e8b0dcd2.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/f0f19bb1e8b0dcd2.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "deR deelB evoL teL",
+              "track": 4,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "df918511bc05ebc7.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/df918511bc05ebc7.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/df918511bc05ebc7.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")yaW oN( yawklaW rM SV stonK niyT niatpaC",
+              "track": 5,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "16799d45cebbb88b.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/16799d45cebbb88b.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/16799d45cebbb88b.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "mleH eht ta peelsA llaF t'noD",
+              "track": 6,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "1e7b1ee1e452aa7a.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/1e7b1ee1e452aa7a.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/1e7b1ee1e452aa7a.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "raeH ot seyE dna ,eeS ot sraE htiW",
+              "track": 7,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "9b1e20ea2554ad23.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/9b1e20ea2554ad23.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/9b1e20ea2554ad23.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "114 laiD ,ycnegremE fo esaC nI",
+              "track": 8,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "5e07d430a92e27f6.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/5e07d430a92e27f6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/5e07d430a92e27f6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "erehwyrevE fo ediS tfeL ehT",
+              "track": 9,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "51434c39834ad849.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/51434c39834ad849.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/51434c39834ad849.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ytraP ecnaD ebutuoY",
+              "track": 10,
+              "artist": "sneriS htiW gnipeelS",
+              "album": "raeH oT seyE dna eeS oT sraE htiW",
+              "filename": "a1632bf535717e00.m4a",
+              "path": "bd48c5f4f3e41e46/8c4ca14cf4235669/a1632bf535717e00.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bd48c5f4f3e41e46/8c4ca14cf4235669/a1632bf535717e00.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "ycaL evetS",
       "albums": [
         {
@@ -1147,6 +2045,474 @@ window.DIESMOS_MUSIC_CATALOG = {
               "filename": "50209d63b2641f8a.mp3",
               "path": "53b5e64bf4f995a5/7f3e5746f0bf7322/50209d63b2641f8a.mp3",
               "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/53b5e64bf4f995a5/7f3e5746f0bf7322/50209d63b2641f8a.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "srelliK ehT",
+      "albums": [
+        {
+          "name": "ssuF toH",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "eniM fO dneirF A saW ynneJ",
+              "track": 1,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "71e7db80796e60bf.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/71e7db80796e60bf.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/71e7db80796e60bf.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "edisthgirB .rM",
+              "track": 2,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "8b4ceed73caa442d.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/8b4ceed73caa442d.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/8b4ceed73caa442d.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tI naeM uoY ekiL elimS",
+              "track": 3,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "d3d7e122b049b492.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/d3d7e122b049b492.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/d3d7e122b049b492.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM dloT ydobemoS",
+              "track": 4,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "4804acb51b5d2d00.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/4804acb51b5d2d00.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/4804acb51b5d2d00.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "enoD ev'I tahT sgnihT esehT llA",
+              "track": 5,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "747e932ca16b2b37.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/747e932ca16b2b37.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/747e932ca16b2b37.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ratS A er'uoY ,ydnA",
+              "track": 6,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "f79070b7ee55a2e1.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/f79070b7ee55a2e1.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/f79070b7ee55a2e1.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "poT nO",
+              "track": 7,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "d66e5495a12c8214.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/d66e5495a12c8214.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/d66e5495a12c8214.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dniM ruoY egnahC",
+              "track": 8,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "f5c0331de37d2022.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/f5c0331de37d2022.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/f5c0331de37d2022.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eilataN eM eveileB",
+              "track": 9,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "be44c26d6557a49a.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/be44c26d6557a49a.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/be44c26d6557a49a.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "wohS thgindiM",
+              "track": 10,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "d1cc83940f77237d.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/d1cc83940f77237d.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/d1cc83940f77237d.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgirlA eB lliW gnihtyrevE",
+              "track": 11,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "a9cc5206b5116c1c.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/a9cc5206b5116c1c.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/a9cc5206b5116c1c.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")noisreV tsudwaS( lloR dnA kcoR eidnI suoromalG",
+              "track": 12,
+              "artist": "srelliK ehT",
+              "album": "ssuF toH",
+              "filename": "21b5008844d742ee.m4a",
+              "path": "9ef72cf58c61dfec/8646555c441d9f80/21b5008844d742ee.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/9ef72cf58c61dfec/8646555c441d9f80/21b5008844d742ee.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dnkeeW ehT",
+      "albums": [
+        {
+          "name": "sruoH retfA",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "niagA enolA",
+              "track": 1,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "e188798abc0a4343.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/e188798abc0a4343.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/e188798abc0a4343.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "etaL ooT",
+              "track": 2,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "d24d33aaa132adb7.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/d24d33aaa132adb7.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/d24d33aaa132adb7.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "evoL oT tsedraH",
+              "track": 3,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "da9fb5a53187d244.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/da9fb5a53187d244.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/da9fb5a53187d244.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eviL oT deracS",
+              "track": 4,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "8a042aa69f0fd5f0.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/8a042aa69f0fd5f0.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/8a042aa69f0fd5f0.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dlihcwonS",
+              "track": 5,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "cadf45ef1f3b3c22.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/cadf45ef1f3b3c22.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/cadf45ef1f3b3c22.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "AL morF epacsE",
+              "track": 6,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "ffd4353b5726ee14.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/ffd4353b5726ee14.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/ffd4353b5726ee14.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sseltraeH",
+              "track": 7,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "3bbba3010971a582.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/3bbba3010971a582.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/3bbba3010971a582.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "htiaF",
+              "track": 8,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "279c209f4f9884f6.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/279c209f4f9884f6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/279c209f4f9884f6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sthgiL gnidnilB",
+              "track": 9,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "d2afa3ce7c060300.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/d2afa3ce7c060300.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/d2afa3ce7c060300.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "seyE ruoY nI",
+              "track": 10,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "e23e204c4cd9b044.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/e23e204c4cd9b044.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/e23e204c4cd9b044.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sraeT ruoY evaS",
+              "track": 11,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "adc3a5512f51e083.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/adc3a5512f51e083.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/adc3a5512f51e083.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")edulretnI( eM retfA taepeR",
+              "track": 12,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "2c7f476547019d60.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/2c7f476547019d60.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/2c7f476547019d60.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sruoH retfA",
+              "track": 13,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "2667a5e6d54aca57.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/2667a5e6d54aca57.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/2667a5e6d54aca57.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tuO deelB I litnU",
+              "track": 14,
+              "artist": "dnkeeW ehT",
+              "album": "sruoH retfA",
+              "filename": "2d99723823113135.m4a",
+              "path": "bb52c917f64f0bd8/aba0d212cd210730/2d99723823113135.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/aba0d212cd210730/2d99723823113135.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "yobratS",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "yobratS",
+              "track": 1,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "3a17b987a7586263.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/3a17b987a7586263.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/3a17b987a7586263.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "retsnoM ytraP",
+              "track": 2,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "97c0a078a3efb688.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/97c0a078a3efb688.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/97c0a078a3efb688.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "mralA eslaF",
+              "track": 3,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "38f770ce051983da.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/38f770ce051983da.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/38f770ce051983da.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "rednimeR",
+              "track": 4,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "4ca297bfe4bc39e1.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/4ca297bfe4bc39e1.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/4ca297bfe4bc39e1.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "’nikcoR",
+              "track": 5,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "f9c30eab9759a64b.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/f9c30eab9759a64b.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/f9c30eab9759a64b.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sterceS",
+              "track": 6,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "245793efd26f88dc.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/245793efd26f88dc.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/245793efd26f88dc.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sroloC eurT",
+              "track": 7,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "6cb484321e434332.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/6cb484321e434332.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/6cb484321e434332.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "edulretnI lrigratS",
+              "track": 8,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "143f522acfd59c0b.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/143f522acfd59c0b.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/143f522acfd59c0b.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "sklawediS",
+              "track": 9,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "192bab47313cdb5f.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/192bab47313cdb5f.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/192bab47313cdb5f.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "rednU teeF xiS",
+              "track": 10,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "49d9e2b98d5dd5ec.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/49d9e2b98d5dd5ec.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/49d9e2b98d5dd5ec.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "yaL oT evoL",
+              "track": 11,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "7dcd6bdb2afd9151.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/7dcd6bdb2afd9151.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/7dcd6bdb2afd9151.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgiN ylenoL A",
+              "track": 12,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "6f14ca3f6e2a0b66.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/6f14ca3f6e2a0b66.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/6f14ca3f6e2a0b66.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "noitnettA",
+              "track": 13,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "eb2d0923d45ca76a.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/eb2d0923d45ca76a.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/eb2d0923d45ca76a.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "efiL yranidrO",
+              "track": 14,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "56fd0804f3d880c6.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/56fd0804f3d880c6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/56fd0804f3d880c6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY tuohtiW gnihtoN",
+              "track": 15,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "753e7ff8752dbe33.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/753e7ff8752dbe33.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/753e7ff8752dbe33.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "wonK I llA",
+              "track": 16,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "85e28ebd255e72ec.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/85e28ebd255e72ec.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/85e28ebd255e72ec.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "uoY roF eiD",
+              "track": 17,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "f01ba5e78d6735af.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/f01ba5e78d6735af.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/f01ba5e78d6735af.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "gnimoC tI leeF I",
+              "track": 18,
+              "artist": "dnkeeW ehT",
+              "album": "yobratS",
+              "filename": "28bd2c67f4d99fe6.m4a",
+              "path": "bb52c917f64f0bd8/92ab0f32c4d70be6/28bd2c67f4d99fe6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/bb52c917f64f0bd8/92ab0f32c4d70be6/28bd2c67f4d99fe6.m4a",
               "coverArtUrl": ""
             }
           ]
