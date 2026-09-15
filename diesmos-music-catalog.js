@@ -3,11 +3,335 @@ window.DIESMOS_MUSIC_CATALOG = {
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T00:41:55.071353+00:00",
+  "generatedAt": "2026-09-15T00:48:01.559740+00:00",
   "artists": [
     {
       "name": "Pierce the Veil",
       "albums": [
+        {
+          "name": "A Flair For The Dramatic",
+          "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/Cover.jpg",
+          "songs": [
+            {
+              "title": "Chemical Kids and Mechanical Brides",
+              "track": 1,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "01 - Chemical Kids and Mechanical Brides.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/01 - Chemical Kids and Mechanical Brides.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/01%20-%20Chemical%20Kids%20and%20Mechanical%20Brides.mp3"
+            },
+            {
+              "title": "Currents Convulsive",
+              "track": 2,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "02 - Currents Convulsive.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/02 - Currents Convulsive.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/02%20-%20Currents%20Convulsive.mp3"
+            },
+            {
+              "title": "Yeah Boy and Doll Face",
+              "track": 3,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "03 - Yeah Boy and Doll Face.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/03 - Yeah Boy and Doll Face.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/03%20-%20Yeah%20Boy%20and%20Doll%20Face.mp3"
+            },
+            {
+              "title": "I'd Rather Die Than Be Famous",
+              "track": 4,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "04 - I'd Rather Die Than Be Famous.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/04 - I'd Rather Die Than Be Famous.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/04%20-%20I%27d%20Rather%20Die%20Than%20Be%20Famous.mp3"
+            },
+            {
+              "title": "The Cheap Bouquet",
+              "track": 5,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "05 - The Cheap Bouquet.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/05 - The Cheap Bouquet.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/05%20-%20The%20Cheap%20Bouquet.mp3"
+            },
+            {
+              "title": "Falling Asleep on a Stranger",
+              "track": 6,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "06 - Falling Asleep on a Stranger.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/06 - Falling Asleep on a Stranger.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/06%20-%20Falling%20Asleep%20on%20a%20Stranger.mp3"
+            },
+            {
+              "title": "She Sings in the Morning",
+              "track": 7,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "07 - She Sings in the Morning.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/07 - She Sings in the Morning.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/07%20-%20She%20Sings%20in%20the%20Morning.mp3"
+            },
+            {
+              "title": "The Balcony Scene",
+              "track": 8,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "08 - The Balcony Scene.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/08 - The Balcony Scene.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/08%20-%20The%20Balcony%20Scene.mp3"
+            },
+            {
+              "title": "Drella",
+              "track": 9,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "09 - Drella.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/09 - Drella.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/09%20-%20Drella.mp3"
+            },
+            {
+              "title": "Diamonds and Why Men Buy Them",
+              "track": 10,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "10 - Diamonds and Why Men Buy Them.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/10 - Diamonds and Why Men Buy Them.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/10%20-%20Diamonds%20and%20Why%20Men%20Buy%20Them.mp3"
+            },
+            {
+              "title": "Wonderless",
+              "track": 11,
+              "artist": "Pierce the Veil",
+              "album": "A Flair For The Dramatic",
+              "filename": "11 - Wonderless.mp3",
+              "path": "Pierce the Veil/A Flair For The Dramatic/11 - Wonderless.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/A%20Flair%20For%20The%20Dramatic/11%20-%20Wonderless.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Collide With The Sky",
+          "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/Cover.jpg",
+          "songs": [
+            {
+              "title": "May These Noises Startle You In Your Sleep Tonight",
+              "track": 1,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "01 - May These Noises Startle You In Your Sleep Tonight.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/01 - May These Noises Startle You In Your Sleep Tonight.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/01%20-%20May%20These%20Noises%20Startle%20You%20In%20Your%20Sleep%20Tonight.mp3"
+            },
+            {
+              "title": "Hell Above",
+              "track": 2,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "02 - Hell Above.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/02 - Hell Above.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/02%20-%20Hell%20Above.mp3"
+            },
+            {
+              "title": "A Match Into Water",
+              "track": 3,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "03 - A Match Into Water.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/03 - A Match Into Water.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/03%20-%20A%20Match%20Into%20Water.mp3"
+            },
+            {
+              "title": "King For A Day",
+              "track": 4,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "04 - King For A Day.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/04 - King For A Day.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/04%20-%20King%20For%20A%20Day.mp3"
+            },
+            {
+              "title": "Bulls In The Bronx",
+              "track": 5,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "05 - Bulls In The Bronx.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/05 - Bulls In The Bronx.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/05%20-%20Bulls%20In%20The%20Bronx.mp3"
+            },
+            {
+              "title": "Props & Mayhem",
+              "track": 6,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "06 - Props & Mayhem.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/06 - Props & Mayhem.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/06%20-%20Props%20%26%20Mayhem.mp3"
+            },
+            {
+              "title": "Tangled In The Great Escape",
+              "track": 7,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "07 - Tangled In The Great Escape.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/07 - Tangled In The Great Escape.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/07%20-%20Tangled%20In%20The%20Great%20Escape.mp3"
+            },
+            {
+              "title": "I'm Low On Gas And You Need A Jacket",
+              "track": 8,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "08 - I'm Low On Gas And You Need A Jacket.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/08 - I'm Low On Gas And You Need A Jacket.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/08%20-%20I%27m%20Low%20On%20Gas%20And%20You%20Need%20A%20Jacket.mp3"
+            },
+            {
+              "title": "The First Punch",
+              "track": 9,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "09 - The First Punch.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/09 - The First Punch.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/09%20-%20The%20First%20Punch.mp3"
+            },
+            {
+              "title": "One Hundred Sleepless Nights",
+              "track": 10,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "10 - One Hundred Sleepless Nights.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/10 - One Hundred Sleepless Nights.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/10%20-%20One%20Hundred%20Sleepless%20Nights.mp3"
+            },
+            {
+              "title": "Stained Glass Eyes And Colorful Tears",
+              "track": 11,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "11 - Stained Glass Eyes And Colorful Tears.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/11 - Stained Glass Eyes And Colorful Tears.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/11%20-%20Stained%20Glass%20Eyes%20And%20Colorful%20Tears.mp3"
+            },
+            {
+              "title": "Hold On Till May",
+              "track": 12,
+              "artist": "Pierce the Veil",
+              "album": "Collide With The Sky",
+              "filename": "12 - Hold On Till May.mp3",
+              "path": "Pierce the Veil/Collide With The Sky/12 - Hold On Till May.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Collide%20With%20The%20Sky/12%20-%20Hold%20On%20Till%20May.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Misadventures",
+          "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/Cover.jpg",
+          "songs": [
+            {
+              "title": "Dive In",
+              "track": 1,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "01 - Dive In.mp3",
+              "path": "Pierce the Veil/Misadventures/01 - Dive In.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/01%20-%20Dive%20In.mp3"
+            },
+            {
+              "title": "Texas Is Forever",
+              "track": 2,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "02 - Texas Is Forever.mp3",
+              "path": "Pierce the Veil/Misadventures/02 - Texas Is Forever.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/02%20-%20Texas%20Is%20Forever.mp3"
+            },
+            {
+              "title": "The Divine Zero",
+              "track": 3,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "03 - The Divine Zero.mp3",
+              "path": "Pierce the Veil/Misadventures/03 - The Divine Zero.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/03%20-%20The%20Divine%20Zero.mp3"
+            },
+            {
+              "title": "Floral & Fading",
+              "track": 4,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "04 - Floral & Fading.mp3",
+              "path": "Pierce the Veil/Misadventures/04 - Floral & Fading.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/04%20-%20Floral%20%26%20Fading.mp3"
+            },
+            {
+              "title": "Phantom Power And Ludicrous Speed",
+              "track": 5,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "05 - Phantom Power And Ludicrous Speed.mp3",
+              "path": "Pierce the Veil/Misadventures/05 - Phantom Power And Ludicrous Speed.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/05%20-%20Phantom%20Power%20And%20Ludicrous%20Speed.mp3"
+            },
+            {
+              "title": "Circles",
+              "track": 6,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "06 - Circles.mp3",
+              "path": "Pierce the Veil/Misadventures/06 - Circles.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/06%20-%20Circles.mp3"
+            },
+            {
+              "title": "Today I Saw The Whole World",
+              "track": 7,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "07 - Today I Saw The Whole World.mp3",
+              "path": "Pierce the Veil/Misadventures/07 - Today I Saw The Whole World.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/07%20-%20Today%20I%20Saw%20The%20Whole%20World.mp3"
+            },
+            {
+              "title": "Gold Medal Ribbon",
+              "track": 8,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "08 - Gold Medal Ribbon.mp3",
+              "path": "Pierce the Veil/Misadventures/08 - Gold Medal Ribbon.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/08%20-%20Gold%20Medal%20Ribbon.mp3"
+            },
+            {
+              "title": "Bedless",
+              "track": 9,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "09 - Bedless.mp3",
+              "path": "Pierce the Veil/Misadventures/09 - Bedless.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/09%20-%20Bedless.mp3"
+            },
+            {
+              "title": "Sambuka",
+              "track": 10,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "10 - Sambuka.mp3",
+              "path": "Pierce the Veil/Misadventures/10 - Sambuka.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/10%20-%20Sambuka.mp3"
+            },
+            {
+              "title": "Song For Isabelle",
+              "track": 11,
+              "artist": "Pierce the Veil",
+              "album": "Misadventures",
+              "filename": "11 - Song For Isabelle.mp3",
+              "path": "Pierce the Veil/Misadventures/11 - Song For Isabelle.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Misadventures/11%20-%20Song%20For%20Isabelle.mp3"
+            }
+          ]
+        },
         {
           "name": "Selfish Machines (Reissue)",
           "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/Cover.jpg",
@@ -128,6 +452,138 @@ window.DIESMOS_MUSIC_CATALOG = {
               "filename": "13 - Kissing in Cars (Bonus Track).mp3",
               "path": "Pierce the Veil/Selfish Machines (Reissue)/13 - Kissing in Cars (Bonus Track).mp3",
               "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/13%20-%20Kissing%20in%20Cars%20%28Bonus%20Track%29.mp3"
+            }
+          ]
+        },
+        {
+          "name": "The Jaws Of Life (Deluxe)",
+          "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/Cover.jpg",
+          "songs": [
+            {
+              "title": "Death Of An Executioner",
+              "track": 1,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "01 - Death Of An Executioner.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/01 - Death Of An Executioner.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/01%20-%20Death%20Of%20An%20Executioner.mp3"
+            },
+            {
+              "title": "Pass The Nirvana",
+              "track": 2,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "02 - Pass The Nirvana.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/02 - Pass The Nirvana.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/02%20-%20Pass%20The%20Nirvana.mp3"
+            },
+            {
+              "title": "Even When I’m Not With You",
+              "track": 3,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "03 - Even When I’m Not With You.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/03 - Even When I’m Not With You.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/03%20-%20Even%20When%20I%E2%80%99m%20Not%20With%20You.mp3"
+            },
+            {
+              "title": "Emergency Contact",
+              "track": 4,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "04 - Emergency Contact.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/04 - Emergency Contact.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/04%20-%20Emergency%20Contact.mp3"
+            },
+            {
+              "title": "Flawless Execution",
+              "track": 5,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "05 - Flawless Execution.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/05 - Flawless Execution.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/05%20-%20Flawless%20Execution.mp3"
+            },
+            {
+              "title": "The Jaws Of Life",
+              "track": 6,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "06 - The Jaws Of Life.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/06 - The Jaws Of Life.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/06%20-%20The%20Jaws%20Of%20Life.mp3"
+            },
+            {
+              "title": "Damn The Man, Save The Empire",
+              "track": 7,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "07 - Damn The Man, Save The Empire.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/07 - Damn The Man, Save The Empire.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/07%20-%20Damn%20The%20Man%2C%20Save%20The%20Empire.mp3"
+            },
+            {
+              "title": "Resilience",
+              "track": 8,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "08 - Resilience.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/08 - Resilience.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/08%20-%20Resilience.mp3"
+            },
+            {
+              "title": "Irrational Fears (Interlude)",
+              "track": 9,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "09 - Irrational Fears (Interlude).mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/09 - Irrational Fears (Interlude).mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/09%20-%20Irrational%20Fears%20%28Interlude%29.mp3"
+            },
+            {
+              "title": "Shared Trauma",
+              "track": 10,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "10 - Shared Trauma.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/10 - Shared Trauma.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/10%20-%20Shared%20Trauma.mp3"
+            },
+            {
+              "title": "So Far So Fake",
+              "track": 11,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "11 - So Far So Fake.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/11 - So Far So Fake.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/11%20-%20So%20Far%20So%20Fake.mp3"
+            },
+            {
+              "title": "12 Fractures",
+              "track": 12,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "12 - 12 Fractures.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/12 - 12 Fractures.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/12%20-%2012%20Fractures.mp3"
+            },
+            {
+              "title": "Kiss Me Now",
+              "track": 13,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "13 - Kiss Me Now.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/13 - Kiss Me Now.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/13%20-%20Kiss%20Me%20Now.mp3"
+            },
+            {
+              "title": "Karma Police",
+              "track": 14,
+              "artist": "Pierce the Veil",
+              "album": "The Jaws Of Life (Deluxe)",
+              "filename": "14 - Karma Police.mp3",
+              "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/14 - Karma Police.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/14%20-%20Karma%20Police.mp3"
             }
           ]
         }
