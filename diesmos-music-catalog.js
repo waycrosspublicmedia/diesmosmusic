@@ -3,8 +3,149 @@ window.DIESMOS_MUSIC_CATALOG = {
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T00:55:01.784557+00:00",
+  "generatedAt": "2026-09-15T01:02:36.108675+00:00",
   "artists": [
+    {
+      "name": "Panic! At The Disco",
+      "albums": [
+        {
+          "name": "A Fever You Can't Sweat Out",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "Introduction",
+              "track": 1,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "01 Introduction.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/01 Introduction.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/01%20Introduction.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+              "track": 2,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "02 The Only Difference Between Martyrdom and Suicide Is Press Coverage.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/02 The Only Difference Between Martyrdom and Suicide Is Press Coverage.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/02%20The%20Only%20Difference%20Between%20Martyrdom%20and%20Suicide%20Is%20Press%20Coverage.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "London Beckoned Songs About Money Written By Machines",
+              "track": 3,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "03 London Beckoned Songs About Money Written By Machines.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/03 London Beckoned Songs About Money Written By Machines.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/03%20London%20Beckoned%20Songs%20About%20Money%20Written%20By%20Machines.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Nails for Breakfast, Tacks for Snacks",
+              "track": 4,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "04 Nails for Breakfast, Tacks for Snacks.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/04 Nails for Breakfast, Tacks for Snacks.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/04%20Nails%20for%20Breakfast%2C%20Tacks%20for%20Snacks.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Camisado",
+              "track": 5,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "05 Camisado.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/05 Camisado.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/05%20Camisado.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Time to Dance",
+              "track": 6,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "06 Time to Dance.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/06 Time to Dance.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/06%20Time%20to%20Dance.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+              "track": 7,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "07 Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/07 Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/07%20Lying%20Is%20the%20Most%20Fun%20a%20Girl%20Can%20Have%20Without%20Taking%20Her%20Clothes%20Off.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Intermission",
+              "track": 8,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "08 Intermission.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/08 Intermission.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/08%20Intermission.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "But It's Better If You Do",
+              "track": 9,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "09 But It's Better If You Do.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/09 But It's Better If You Do.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/09%20But%20It%27s%20Better%20If%20You%20Do.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "I Write Sins Not Tragedies",
+              "track": 10,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "10 I Write Sins Not Tragedies.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/10 I Write Sins Not Tragedies.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/10%20I%20Write%20Sins%20Not%20Tragedies.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "I Constantly Thank God for Esteban",
+              "track": 11,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "11 I Constantly Thank God for Esteban.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/11 I Constantly Thank God for Esteban.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/11%20I%20Constantly%20Thank%20God%20for%20Esteban.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
+              "track": 12,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "12 There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/12 There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/12%20There%27s%20a%20Good%20Reason%20These%20Tables%20Are%20Numbered%20Honey%2C%20You%20Just%20Haven%27t%20Thought%20of%20It%20Yet.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Build God, Then We'll Talk",
+              "track": 13,
+              "artist": "Panic! At The Disco",
+              "album": "A Fever You Can't Sweat Out",
+              "filename": "13 Build God, Then We'll Talk.mp3",
+              "path": "Panic! At The Disco/A Fever You Can't Sweat Out/13 Build God, Then We'll Talk.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Panic%21%20At%20The%20Disco/A%20Fever%20You%20Can%27t%20Sweat%20Out/13%20Build%20God%2C%20Then%20We%27ll%20Talk.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Pierce the Veil",
       "albums": [
@@ -645,6 +786,183 @@ window.DIESMOS_MUSIC_CATALOG = {
               "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/14 - Karma Police.mp3",
               "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/14%20-%20Karma%20Police.mp3",
               "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/Cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steve Lacy",
+      "albums": [
+        {
+          "name": "Gemini Rights",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "Static",
+              "track": 1,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "01 Static.m4a",
+              "path": "Steve Lacy/Gemini Rights/01 Static.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/01%20Static.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Helmet",
+              "track": 2,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "02 Helmet.m4a",
+              "path": "Steve Lacy/Gemini Rights/02 Helmet.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/02%20Helmet.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Mercury",
+              "track": 3,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "03 Mercury.m4a",
+              "path": "Steve Lacy/Gemini Rights/03 Mercury.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/03%20Mercury.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Buttons",
+              "track": 4,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "04 Buttons.m4a",
+              "path": "Steve Lacy/Gemini Rights/04 Buttons.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/04%20Buttons.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Bad Habit",
+              "track": 5,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "05 Bad Habit.m4a",
+              "path": "Steve Lacy/Gemini Rights/05 Bad Habit.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/05%20Bad%20Habit.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "2Gether (Enterlude)",
+              "track": 6,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "06 2Gether (Enterlude).m4a",
+              "path": "Steve Lacy/Gemini Rights/06 2Gether (Enterlude).m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/06%202Gether%20%28Enterlude%29.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Cody Freestyle",
+              "track": 7,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "07 Cody Freestyle.m4a",
+              "path": "Steve Lacy/Gemini Rights/07 Cody Freestyle.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/07%20Cody%20Freestyle.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Amber",
+              "track": 8,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "08 Amber.m4a",
+              "path": "Steve Lacy/Gemini Rights/08 Amber.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/08%20Amber.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Sunshine (feat. Fousheé)",
+              "track": 9,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "09 Sunshine (feat. Fousheé).m4a",
+              "path": "Steve Lacy/Gemini Rights/09 Sunshine (feat. Fousheé).m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/09%20Sunshine%20%28feat.%20Foushe%C3%A9%29.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Give You the World",
+              "track": 10,
+              "artist": "Steve Lacy",
+              "album": "Gemini Rights",
+              "filename": "10 Give You the World.m4a",
+              "path": "Steve Lacy/Gemini Rights/10 Give You the World.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Gemini%20Rights/10%20Give%20You%20the%20World.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "Steve Lacy's Demo - EP",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "Looks",
+              "track": 1,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "01 Looks.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/01 Looks.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/01%20Looks.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Ryd",
+              "track": 2,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "02 Ryd.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/02 Ryd.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/02%20Ryd.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Dark Red",
+              "track": 3,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "03 Dark Red.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/03 Dark Red.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/03%20Dark%20Red.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Thangs",
+              "track": 4,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "04 Thangs.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/04 Thangs.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/04%20Thangs.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Haterlovin",
+              "track": 5,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "05 Haterlovin.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/05 Haterlovin.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/05%20Haterlovin.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Some",
+              "track": 6,
+              "artist": "Steve Lacy",
+              "album": "Steve Lacy's Demo - EP",
+              "filename": "06 Some.m4a",
+              "path": "Steve Lacy/Steve Lacy's Demo - EP/06 Some.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Steve%20Lacy/Steve%20Lacy%27s%20Demo%20-%20EP/06%20Some.m4a",
+              "coverArtUrl": ""
             }
           ]
         }
