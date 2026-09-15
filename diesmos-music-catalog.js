@@ -3,7 +3,7 @@ window.DIESMOS_MUSIC_CATALOG = {
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T01:02:36.108675+00:00",
+  "generatedAt": "2026-09-15T01:05:54.705735+00:00",
   "artists": [
     {
       "name": "Panic! At The Disco",
@@ -786,6 +786,27 @@ window.DIESMOS_MUSIC_CATALOG = {
               "path": "Pierce the Veil/The Jaws Of Life (Deluxe)/14 - Karma Police.mp3",
               "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/14%20-%20Karma%20Police.mp3",
               "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/The%20Jaws%20Of%20Life%20%28Deluxe%29/Cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pupsies",
+      "albums": [
+        {
+          "name": "misery.",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "misery.",
+              "track": 1,
+              "artist": "pupsies",
+              "album": "misery",
+              "filename": "misery..mp3",
+              "path": "pupsies/misery/misery..mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/pupsies/misery/misery..mp3",
+              "coverArtUrl": ""
             }
           ]
         }
