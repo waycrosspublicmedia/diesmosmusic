@@ -5,7 +5,7 @@ window.DIESMOS_MUSIC_CATALOG = {
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T04:37:09.314693+00:00",
+  "generatedAt": "2026-09-15T04:54:25.330702+00:00",
   "artists": [
     {
       "name": "sraM onurB",
@@ -345,6 +345,217 @@ window.DIESMOS_MUSIC_CATALOG = {
               "filename": "0fab022eecf95c97.m4a",
               "path": "e047b37ca9b8b39d/7775957794cf2383/0fab022eecf95c97.m4a",
               "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/e047b37ca9b8b39d/7775957794cf2383/0fab022eecf95c97.m4a",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "kraP nikniL",
+      "albums": [
+        {
+          "name": "stucrepaP",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "gnilwarC",
+              "track": 1,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "5f0808a94eea5fbd.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/5f0808a94eea5fbd.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/5f0808a94eea5fbd.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tniaF",
+              "track": 2,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "637b42b9a1eee7a6.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/637b42b9a1eee7a6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/637b42b9a1eee7a6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "bmuN",
+              "track": 3,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "28e57dedcc181c06.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/28e57dedcc181c06.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/28e57dedcc181c06.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tucrepaP",
+              "track": 4,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "693691ce17eb3f26.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/693691ce17eb3f26.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/693691ce17eb3f26.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tibaH eht gnikaerB",
+              "track": 5,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "778e2513c9c08926.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/778e2513c9c08926.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/778e2513c9c08926.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dnE eht nI",
+              "track": 6,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "700dc384fedf56b1.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/700dc384fedf56b1.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/700dc384fedf56b1.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tuO tI deelB",
+              "track": 7,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "28b419a5d4c946b2.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/28b419a5d4c946b2.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/28b419a5d4c946b2.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "gnoleB I erehwemoS",
+              "track": 8,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "cc543aa28a966253.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/cc543aa28a966253.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/cc543aa28a966253.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dnE eht rof gnitiaW",
+              "track": 9,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "091e2582509ebd02.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/091e2582509ebd02.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/091e2582509ebd02.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "SSALG FO ELTSAC",
+              "track": 10,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "aa905aa56b1e1817.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/aa905aa56b1e1817.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/aa905aa56b1e1817.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgiL eroM enO",
+              "track": 11,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "63ab18be27b93cc2.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/63ab18be27b93cc2.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/63ab18be27b93cc2.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "NWOD TI NRUB",
+              "track": 12,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "78c73b30d261700e.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/78c73b30d261700e.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/78c73b30d261700e.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "enoD ev'I tahW",
+              "track": 13,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "0e5df9ee4a5f8407.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/0e5df9ee4a5f8407.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/0e5df9ee4a5f8407.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "YTREWQ",
+              "track": 14,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "60bc0866ae609e99.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/60bc0866ae609e99.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/60bc0866ae609e99.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "resolC petS enO",
+              "track": 15,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "f48195cf9cfd0a2f.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/f48195cf9cfd0a2f.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/f48195cf9cfd0a2f.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "ediviD weN",
+              "track": 16,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "83715991a8a073a6.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/83715991a8a073a6.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/83715991a8a073a6.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tseR ehT llA tuO evaeL",
+              "track": 17,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "1aca18f8d2d2380e.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/1aca18f8d2d2380e.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/1aca18f8d2d2380e.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tsoL",
+              "track": 18,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "0a89c16a09091895.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/0a89c16a09091895.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/0a89c16a09091895.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "bmuN",
+              "track": 19,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "384dc50261f74219.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/384dc50261f74219.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/384dc50261f74219.m4a",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eriF yldneirF",
+              "track": 20,
+              "artist": "kraP nikniL",
+              "album": "stucrepaP",
+              "filename": "3d7238af0730f499.m4a",
+              "path": "b344830d268d450f/05e9e2b16a5863d4/3d7238af0730f499.m4a",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/b344830d268d450f/05e9e2b16a5863d4/3d7238af0730f499.m4a",
               "coverArtUrl": ""
             }
           ]
