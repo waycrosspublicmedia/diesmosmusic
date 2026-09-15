@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "source": "waycrosspublicmedia/diesmosmusic",
+  "branch": "main",
+  "generatedAt": "2026-09-15T00:41:55.071353+00:00",
+  "artists": [
+    {
+      "name": "Pierce the Veil",
+      "albums": [
+        {
+          "name": "Selfish Machines (Reissue)",
+          "coverArtUrl": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/Cover.jpg",
+          "songs": [
+            {
+              "title": "Besitos",
+              "track": 1,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "01 - Besitos.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/01 - Besitos.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/01%20-%20Besitos.mp3"
+            },
+            {
+              "title": "Southern Constellations",
+              "track": 2,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "02 - Southern Constellations.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/02 - Southern Constellations.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/02%20-%20Southern%20Constellations.mp3"
+            },
+            {
+              "title": "The Boy Who Could Fly",
+              "track": 3,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "03 - The Boy Who Could Fly.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/03 - The Boy Who Could Fly.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/03%20-%20The%20Boy%20Who%20Could%20Fly.mp3"
+            },
+            {
+              "title": "Caraphernelia",
+              "track": 4,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "04 - Caraphernelia.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/04 - Caraphernelia.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/04%20-%20Caraphernelia.mp3"
+            },
+            {
+              "title": "Fast Times at Clairemont High",
+              "track": 5,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "05 - Fast Times at Clairemont High.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/05 - Fast Times at Clairemont High.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/05%20-%20Fast%20Times%20at%20Clairemont%20High.mp3"
+            },
+            {
+              "title": "The New National Anthem",
+              "track": 6,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "06 - The New National Anthem.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/06 - The New National Anthem.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/06%20-%20The%20New%20National%20Anthem.mp3"
+            },
+            {
+              "title": "Bulletproof Love",
+              "track": 7,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "07 - Bulletproof Love.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/07 - Bulletproof Love.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/07%20-%20Bulletproof%20Love.mp3"
+            },
+            {
+              "title": "Stay Away from My Friends",
+              "track": 8,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "08 - Stay Away from My Friends.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/08 - Stay Away from My Friends.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/08%20-%20Stay%20Away%20from%20My%20Friends.mp3"
+            },
+            {
+              "title": "I Don't Care If You're Contagious",
+              "track": 9,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "09 - I Don't Care If You're Contagious.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/09 - I Don't Care If You're Contagious.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/09%20-%20I%20Don%27t%20Care%20If%20You%27re%20Contagious.mp3"
+            },
+            {
+              "title": "Disasterology",
+              "track": 10,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "10 - Disasterology.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/10 - Disasterology.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/10%20-%20Disasterology.mp3"
+            },
+            {
+              "title": "Million Dollar Houses (The Painter)",
+              "track": 11,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "11 - Million Dollar Houses (The Painter).mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/11 - Million Dollar Houses (The Painter).mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/11%20-%20Million%20Dollar%20Houses%20%28The%20Painter%29.mp3"
+            },
+            {
+              "title": "The Sky Under the Sea",
+              "track": 12,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "12 - The Sky Under the Sea.mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/12 - The Sky Under the Sea.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/12%20-%20The%20Sky%20Under%20the%20Sea.mp3"
+            },
+            {
+              "title": "Kissing in Cars (Bonus Track)",
+              "track": 13,
+              "artist": "Pierce the Veil",
+              "album": "Selfish Machines (Reissue)",
+              "filename": "13 - Kissing in Cars (Bonus Track).mp3",
+              "path": "Pierce the Veil/Selfish Machines (Reissue)/13 - Kissing in Cars (Bonus Track).mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Pierce%20the%20Veil/Selfish%20Machines%20%28Reissue%29/13%20-%20Kissing%20in%20Cars%20%28Bonus%20Track%29.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
