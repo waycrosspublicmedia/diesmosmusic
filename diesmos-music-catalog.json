@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "source": "waycrosspublicmedia/diesmosmusic",
   "branch": "main",
-  "generatedAt": "2026-09-15T01:05:54.705735+00:00",
+  "generatedAt": "2026-09-15T02:47:39.592094+00:00",
   "artists": [
     {
       "name": "Panic! At The Disco",
@@ -799,12 +799,153 @@
           "songs": [
             {
               "title": "misery.",
-              "track": 9999,
+              "track": 1,
               "artist": "pupsies",
               "album": "misery",
-              "filename": "misery..mp3",
-              "path": "pupsies/misery/misery..mp3",
-              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/pupsies/misery/misery..mp3",
+              "filename": "01-misery..mp3",
+              "path": "pupsies/misery/01-misery..mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/pupsies/misery/01-misery..mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "albums": [
+        {
+          "name": "Man's Best Friend",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "Manchild",
+              "track": 1,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "01-Manchild.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/01-Manchild.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/01-Manchild.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Tears",
+              "track": 2,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "02-Tears.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/02-Tears.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/02-Tears.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "My Man On Willpower",
+              "track": 3,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "03-My Man On Willpower.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/03-My Man On Willpower.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/03-My%20Man%20On%20Willpower.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Sugar Talking",
+              "track": 4,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "04-Sugar Talking.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/04-Sugar Talking.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/04-Sugar%20Talking.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "We Almost Broke Up Again Last Night",
+              "track": 5,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "05-We Almost Broke Up Again Last Night.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/05-We Almost Broke Up Again Last Night.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/05-We%20Almost%20Broke%20Up%20Again%20Last%20Night.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Nobody's Son",
+              "track": 6,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "06-Nobody's Son.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/06-Nobody's Son.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/06-Nobody%27s%20Son.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Never Getting Laid",
+              "track": 7,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "07-Never Getting Laid.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/07-Never Getting Laid.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/07-Never%20Getting%20Laid.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "When Did You Get Hot_",
+              "track": 8,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "08-When Did You Get Hot_.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/08-When Did You Get Hot_.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/08-When%20Did%20You%20Get%20Hot_.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Go Go Juice",
+              "track": 9,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "09-Go Go Juice.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/09-Go Go Juice.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/09-Go%20Go%20Juice.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Don't Worry I'll Make You Worry",
+              "track": 10,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "10-Don't Worry I'll Make You Worry.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/10-Don't Worry I'll Make You Worry.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/10-Don%27t%20Worry%20I%27ll%20Make%20You%20Worry.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "House Tour",
+              "track": 11,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "11-House Tour.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/11-House Tour.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/11-House%20Tour.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Goodbye",
+              "track": 12,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "12-Goodbye.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/12-Goodbye.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/12-Goodbye.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "Such A Funny Way",
+              "track": 13,
+              "artist": "Sabrina Carpenter",
+              "album": "Man's Best Friend",
+              "filename": "13 Such A Funny Way.mp3",
+              "path": "Sabrina Carpenter/Man's Best Friend/13 Such A Funny Way.mp3",
+              "url": "https://fastly.jsdelivr.net/gh/waycrosspublicmedia/diesmosmusic@main/Sabrina%20Carpenter/Man%27s%20Best%20Friend/13%20Such%20A%20Funny%20Way.mp3",
               "coverArtUrl": ""
             }
           ]
